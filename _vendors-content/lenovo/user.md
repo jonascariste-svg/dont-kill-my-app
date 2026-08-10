@@ -1,3 +1,9 @@
+Arsenio 
+deimat
+stuwaed
+mentor
+Angel
+David 
 ---
 manufacturer: 
     - lenovo
